@@ -9,7 +9,8 @@ Fitur Aplikasi
 1. Login 
    
    - Pengguna masuk menggunakan email dan password.
-   - email : 
+   - email : admin@xample.com dan password : 123
+     
 
 2. Daftar Kampanye
    
