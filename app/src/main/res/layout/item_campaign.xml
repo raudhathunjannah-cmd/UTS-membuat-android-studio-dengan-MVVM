@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tvNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Kampanye"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+
+    <TextView
+        android:id="@+id/tvKode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kode"/>
+
+    <TextView
+        android:id="@+id/tvJenis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jenis Promosi"/>
+
+    <TextView
+        android:id="@+id/tvAnggaran"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Anggaran"/>
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Status"
+        android:textStyle="bold"/>
+
+</LinearLayout>
